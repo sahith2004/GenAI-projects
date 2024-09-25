@@ -1,0 +1,14 @@
+unstructured
+boto3==1.34.37
+tiktoken
+langchain
+langchain_community
+pandas 
+numpy
+python-dotenv
+pypdf
+langchain-community
+pinecone-client
+langchain-pinecone
+uvicorn
+fastapi
